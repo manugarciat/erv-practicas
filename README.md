@@ -1,5 +1,10 @@
 ## erv-practicas
-### Elementos de reconocimiento visual
+### Elementos de Reconocimiento Visual
 
-Cursada 4to bimestre 2023
+Trabajos hechos para la materia.\
+4to bimestre 2023
+
+Departamento de Computación \
+Facultad de Ciencias Exactas y Naturales\
+Universidad de Buenos Aires
 
